@@ -7,3 +7,4 @@
 
 ## Academic Projects
 
+1. Udacity Business Analytics Nanodegree (https://github.com/Vignesh-Hariharan/Udacity_BusinessAnalyst_nanodegree) 
