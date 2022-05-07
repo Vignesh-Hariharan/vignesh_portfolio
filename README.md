@@ -8,3 +8,4 @@
 ## Academic Projects
 
 1. [Udacity Business Analytics Nanodegree](https://github.com/Vignesh-Hariharan/Udacity_BusinessAnalyst_nanodegree) 
+2. [Data-Analysis-with-Python-Free-Code-Camp](https://github.com/Vignesh-Hariharan/Data-Analysis-with-Python-Free-Code-Camp)
