@@ -1,5 +1,5 @@
 # Vignesh Hariharan
-## Analytics Engineer & Data Architecture
+## Analytics Engineering & Data Architecture
 
 ### [Multi-Touch Attribution Engine](https://github.com/Vignesh-Hariharan/Projects/tree/main/attribution-analytics)
 Built this to understand why marketing teams always argue about which channels actually work. Turns out last-click attribution consistently screws over prospecting channels—so I built a comparison pipeline that shows the real picture across different models.
