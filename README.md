@@ -1,7 +1,7 @@
 # Vignesh Hariharan
 ## Analytics Engineering & Data Architecture
 
-### [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/Salesforce_Analytics_Pipeline)
+### [Salesforce Opportunity Analytics Pipeline](https://github.com/Vignesh-Hariharan/salesforce-analytics-pipeline)
 Engineered an event-driven pipeline to transition from static reporting to active intelligence. The system orchestrates data extraction from Salesforce to Snowflake and employs **Gemini 2.0 Multimodal AI** to analyze generated charts alongside raw metrics. By simulating a human analyst's visual review, it identifies bottlenecks and forecast risks, delivering strategic context directly to Asana and Slack to reduce manual monitoring.
 
 **Tech:** Kestra, Python, Snowflake, Gemini 2.0 (Multimodal), Salesforce & Slack APIs   
